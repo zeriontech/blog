@@ -1,0 +1,74 @@
+{
+  "zerion-team": {
+    "name": "Zerion Team",
+    "slug": "zerion-team",
+    "bio": "",
+    "profile_image": "https://zerion.io/blog/content/images/2026/01/T6ctcP3M_400x400--1-.png"
+  },
+  "vladimir": {
+    "name": "Vladimir Shamanov",
+    "slug": "vladimir",
+    "bio": "Vladimir has 7+ years of crypto marketing experience, currently focusing on wallet infra and onchain data. Before that, he spent 7 years in financial communications. He holds a BSc in Management from the LSE.",
+    "profile_image": "https://zerion.io/blog/content/images/2026/01/c08b6248-334a-4749-8808-a28f8ddf58ce-1.png"
+  },
+  "nikita": {
+    "name": "Nikita Mikhalkov",
+    "slug": "nikita",
+    "bio": "",
+    "profile_image": ""
+  },
+  "andrey": {
+    "name": "Andrey Balyasnikov",
+    "slug": "andrey",
+    "bio": "",
+    "profile_image": "//www.gravatar.com/avatar/857cac6eb16dd3293d0a26a1e626a228?s=250&d=mm&r=x"
+  },
+  "alexander-guy": {
+    "name": "Alexander Guy",
+    "slug": "alexander-guy",
+    "bio": "",
+    "profile_image": "https://zerion.io/blog/content/images/proxy/2-Lv2OeXKr2eiyj0bQrFQRZQ.jpeg"
+  },
+  "evgeny-yurtaev": {
+    "name": "Evgeny Yurtaev",
+    "slug": "evgeny-yurtaev",
+    "bio": "",
+    "profile_image": "https://zerion.io/blog/content/images/proxy/1-DVYypIkoTPXbp_7789GPdA.jpeg"
+  },
+  "abi": {
+    "name": "Abi Dharshan",
+    "slug": "abi",
+    "bio": "",
+    "profile_image": "//www.gravatar.com/avatar/d936f75a6e8a70e7ec0519fb20d1582c?s=250&d=mm&r=x"
+  },
+  "gleb": {
+    "name": "Gleb Shumakov",
+    "slug": "gleb",
+    "bio": "",
+    "profile_image": ""
+  },
+  "vlad": {
+    "name": "Vlad Virtonen",
+    "slug": "vlad",
+    "bio": "",
+    "profile_image": ""
+  },
+  "rebecca": {
+    "name": "Rebecca Mqamelo",
+    "slug": "rebecca",
+    "bio": "Growth at Zerion",
+    "profile_image": "https://zerion.io/blog/content/images/2021/08/rebecca_mqamelo_profile.jpg"
+  },
+  "james": {
+    "name": "James Bedford",
+    "slug": "james",
+    "bio": "",
+    "profile_image": ""
+  },
+  "iurii": {
+    "name": "Iurii Mozalev",
+    "slug": "iurii",
+    "bio": "",
+    "profile_image": ""
+  }
+}

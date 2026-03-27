@@ -1,0 +1,17 @@
+---
+title: "Zerion Community Update: May 2021"
+slug: zerion-community-update-may-2021
+date: 2021-06-02
+published_at: 2021-06-02T03:49:21.000Z
+feature_image: https://zerion.io/blog/content/images/max/2560/1-QxBt-aLqvVlbQR9pgmra7A.png
+authors:
+  - name: Rebecca Mqamelo
+    slug: rebecca
+    avatar: https://zerion.io/blog/content/images/2021/08/rebecca_mqamelo_profile.jpg
+tags:
+  - Community updates
+  - Cryptocurrency
+excerpt: "Here’s what been up to 🚀 Staking [https://blog.zerion.io/the-ultimate-guide-to-staking-76efdd34ec5e] is one of the easiest ways to earn passive income as a DeFi…"
+---
+
+<h4 id="here-s-what-been-up-to-">Here’s what been up to 🚀</h4><figure class="kg-card kg-image-card"><img src="https://zerion.io/blog/content/images/max/800/1-JyQrE1KlKDzZNza30yVeCg.png" class="kg-image" alt="What is crypto staking?" loading="lazy"></figure><p><a href="https://blog.zerion.io/the-ultimate-guide-to-staking-76efdd34ec5e" rel="noopener">Staking</a> is one of the easiest ways to earn passive income as a <a href="https://zerion.io/blog/how-to-invest-in-defi/">DeFi</a> investor. It’s also the biggest feature we shipped this month:</p><ul><li>Get automatic staking detection on almost every asset you hold</li><li>See a detailed breakdown of rewards across protocols</li><li>Claim your staked tokens in a few clicks</li></ul><p>Getting started? We created <a href="https://blog.zerion.io/the-ultimate-guide-to-staking-76efdd34ec5e" rel="noopener">a friendly guide to staking</a> that finally cuts through all the jargon:</p><h3 id="highlights"><strong>Highlights</strong></h3><figure class="kg-card kg-image-card"><img src="https://zerion.io/blog/content/images/max/800/1-1eM7No7Nec9Ed6Qx2lszxg.png" class="kg-image" alt="Uniswap V3" loading="lazy"></figure><h4 id="uniswap-v3-what-it-means-for-zerion"><strong>Uniswap V3 — what it means for Zerion</strong></h4><p><strong>Hello, cheaper trades.</strong> Uniswap V3 took automated market making to a new level with <a href="https://blog.zerion.io/uniswap-v3-what-it-means-for-zerion-9b74e0ab7a89" rel="noopener">several advanced improvements</a>. Zerion users get instant access to cheaper trades. You can also track all your V3 positions — stay tuned for a full integration.</p><h4 id="protocol-and-asset-updates">Protocol and asset updates</h4><ul><li>New mStable assets: <a href="https://app.zerion.io/invest/asset/mUSD-0xe2f2a5c287993345a840db3b0845fbc70f5935a5" rel="noopener">mUSD</a>, <a href="http://go.zerion.io/imUSD" rel="noopener">imUSD</a>, mBTC, <a href="http://go.zerion.io/imBTC" rel="noopener">imBTC</a></li><li><a href="https://app.zerion.io/search?q=%23BalancerV2" rel="noopener">Balancer V2 pools</a></li><li><a href="https://app.zerion.io/invest/asset/BTC2x-FLI-0x0b498ff89709d3838a063f1dfa463091f9801c2b" rel="noopener">BTC 2x Flexible Leverage Index</a></li><li>Track <a href="https://blog.zerion.io/uniswap-v3-what-it-means-for-zerion-9b74e0ab7a89" rel="noopener">Uniswap V3</a> positions</li></ul><h4 id="join-our-team"><strong>Join our team</strong></h4><p><strong>We’re hiring!</strong> Growth Marketing Manager? Product Designer? Backend Engineer? Die-hard degen? <a href="https://jobs.lever.co/zerion" rel="noopener">See if there’s a fit for you.</a></p><h4 id="shout-outs"><strong>Shout-outs</strong></h4><p><strong>Two Zerion rockstars just graduated college.</strong> Congratulations, Abi and Rebecca (we’ll pretend she didn’t write this) 🎉</p><hr>

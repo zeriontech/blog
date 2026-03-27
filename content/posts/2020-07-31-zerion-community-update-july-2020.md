@@ -1,0 +1,18 @@
+---
+title: "Zerion Community Update: July 2020"
+slug: zerion-community-update-july-2020
+date: 2020-07-31
+published_at: 2020-07-31T14:22:29.000Z
+feature_image: https://zerion.io/blog/content/images/max/2560/1-h2ipkUl82c9lgj7ObsbGaQ.png
+authors:
+  - name: Rebecca Mqamelo
+    slug: rebecca
+    avatar: https://zerion.io/blog/content/images/2021/08/rebecca_mqamelo_profile.jpg
+tags:
+  - Community updates
+  - Ethereum
+  - Cryptocurrency
+excerpt: "🚀 Here’s what we’ve been up to in the past month.  Hey Zerion Community,  It’s been a special month for us. We recently released major product updates that let you track the entire DeFi market from…"
+---
+
+<p>🚀 Here’s what we’ve been up to in the past month.</p><h4 id="hey-zerion-community"><strong>Hey Zerion Community,</strong></h4><p>It’s been a special month for us. We recently released major product updates that let you track the entire <a href="https://zerion.io/blog/how-to-invest-in-defi/" rel="noopener">DeFi</a> market from the same place you track your portfolio. The new Explore and Market pages allow you to search trending assets and filter by performance, so you’ll never miss a high-yield opportunity again.</p><figure class="kg-card kg-image-card"><img src="https://zerion.io/blog/content/images/max/800/1-2LRXRFC1qwJfXTYA4UgIvw.png" class="kg-image" alt="Explore DeFi assets with Zerion" loading="lazy" width="800" height="450" srcset="https://zerion.io/blog/content/images/size/w600/max/800/1-2LRXRFC1qwJfXTYA4UgIvw.png 600w, https://zerion.io/blog/content/images/max/800/1-2LRXRFC1qwJfXTYA4UgIvw.png 800w" sizes="(min-width: 720px) 720px"></figure><p>Here’s the best part: Zerion’s mobile app is now the only place where you can view <strong><em>every</em></strong> DeFi asset alongside your portfolio, straight from your phone 🔥 Shout out to our community who made it possible to access the app in English, Russian, Spanish, German, Dutch, Turkish, Korean, Croatian, Portuguese and Japanese!</p><h3 id="in-case-you-missed-it">In case you missed it</h3><p><strong>Build with DeFi SDK:</strong> Two months ago, we launched an open-source library of smart contracts that makes it easier for developers to integrate DeFi protocols. Today, DeFi SDK is the most unified resource for developers to access all of DeFi. Read more at docs.zerion.io or talk to our team on Discord.</p><h3 id="protocol-and-asset-updates">Protocol and asset updates</h3><p>Our team has been working hard. In the last month, we’ve added support for:</p><ul><li>Detailed Synthetix rewards — collateral ratio, escrowed SNX, unlocked SNX, staking rewards and more</li><li>dydx spot balances and margin balances</li><li>DDEX balances and margin positions</li><li>$YFI liquidity pool shares and rewards</li><li>$AMPL — the native token of Ampleforth, a protocol that expands and contracts the supply of tokens in response to market changes.</li><li>Rarible — the first governance token in the NFT space</li><li>BZRX — the governance token of bZx</li><li>$KNC — the governance token of KyberDAO</li><li>mstable’s mUSD stablecoin and MTA governance token</li></ul><h3 id="blog-highlights">Blog highlights</h3><ul><li><strong>Honest work, explained:</strong> Yield Farming perfectly illustrates just how composable DeFi is. Check out Cooper Turley’s guest post, <em>What is Yield farming?</em>, and Lucas’s Campbell’s <em>Yield Farming with Synthetix, Balancer and Curve.</em></li><li><strong>DeFi is the new fintech:</strong> Decentralized finance disrupts the supply and distribution of money, enabling it to do what fintech fundamentally can’t.</li></ul><p>Got feedback? We’d love to hear from you! Chat to us on Discord or vote for new features on our Product Board.</p><hr>

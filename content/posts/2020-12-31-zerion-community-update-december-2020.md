@@ -1,0 +1,18 @@
+---
+title: "Zerion Community Update: December 2020"
+slug: zerion-community-update-december-2020
+date: 2020-12-31
+published_at: 2020-12-31T12:45:59.000Z
+feature_image: https://zerion.io/blog/content/images/max/2560/1-Rssa0KvhDBktnS7CVynkww.png
+authors:
+  - name: Rebecca Mqamelo
+    slug: rebecca
+    avatar: https://zerion.io/blog/content/images/2021/08/rebecca_mqamelo_profile.jpg
+tags:
+  - Community updates
+  - Cryptocurrency
+  - Investing
+excerpt: "🚀 Here’s what we’ve been up to this past year.  As we wrap up one crazy year, let’s take a moment to celebrate some major wins:   * DeFi SDK, our open-source library of smart contracts, became the…"
+---
+
+<h4 id="%F0%9F%9A%80-here%E2%80%99s-what-we%E2%80%99ve-been-up-to-this-past-year">🚀 Here’s what we’ve been up to this past year.</h4><p>As we wrap up one crazy year, let’s take a moment to celebrate some major wins:</p><ul><li>DeFi SDK, our open-source library of smart contracts, became the easiest way for developers to add protocols to dapps</li><li>Zerion got a facelift, proving that <a href="https://zerion.io/blog/how-to-invest-in-defi/" rel="noopener">DeFi</a> can be both simple and pretty</li><li>Our execution engine got a major boost — we now aggregate across every major liquidity source, offering single-transaction trades at the best rates</li><li>We shipped automatic profit and loss calculations for every asset</li><li>Enjoying DeFi in the dark [finally] became a reality on both our mobile and web apps</li><li>We became the first native mobile app for DeFi 🎉</li></ul><p>2020 was undoubtedly the year DeFi exploded, and the numbers reflect this:</p><ul><li>Monthly active users on Zerion grew 12x from December 2019</li><li>$18 million in volume has moved through our Invest page since launching in late September</li><li>Our mobile apps now have over 16K+ active users</li></ul><p>We couldn’t be more excited, driven and committed to continue our work in 2021 — and we have <em>you</em>, our community, to thank for making Zerion what it is today 💙</p><h3 id="highlights">Highlights</h3><figure class="kg-card kg-image-card"><img src="https://zerion.io/blog/content/images/max/800/1-sKR9iF3D9Q2hVQiPbjZe4Q.png" class="kg-image" alt="Connect your mobile crypto wallet to Zerion" loading="lazy" width="700" height="424" srcset="https://zerion.io/blog/content/images/size/w600/max/800/1-sKR9iF3D9Q2hVQiPbjZe4Q.png 600w, https://zerion.io/blog/content/images/max/800/1-sKR9iF3D9Q2hVQiPbjZe4Q.png 700w"></figure><ul><li><strong>Mobile, say hello to DeFi:</strong> We recently became the first app to enable users to connect any mobile wallet and sign transactions without giving up custody. This is a major milestone for the community and marks the beginning of simplified access to the world of DeFi. Read the full announcement post here.</li><li><strong>Watchlists on mobile:</strong> Separate your personal wallets from the wallets you watch with this slick new feature.</li><li><strong>Get Zerion mobile in Chinese:</strong> As always, thank you to our community of volunteers who made this translation happen!</li></ul><h3 id="protocol-and-asset-updates">Protocol and asset updates</h3><p><strong>New liquidity pools:</strong></p><ul><li>Sushi</li><li>Curve</li><li>Snowswap</li></ul><p><strong>Direct staking support:</strong></p><ul><li>DeFi Pulse Index</li><li>PieDAO</li><li>Akropolis</li></ul><p><strong>Track and trade:</strong></p><ul><li>Aave V2 collateral (aTokens)</li><li>The Graph Token</li><li>Badger</li><li>Axie Infinity</li><li>xSushi</li></ul><p>… plus dozens of other ERC20s requested on roadmap.zerion.io</p><hr><p>Got feedback? We’d love to hear from you! Chat to us on Discord or vote for new tokens and features on our public roadmap.</p>
